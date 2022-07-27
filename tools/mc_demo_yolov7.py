@@ -7,6 +7,7 @@ import cv2
 import torch
 import torch.backends.cudnn as cudnn
 from numpy import random
+sys.path.append('.')
 
 from yolov7.models.experimental import attempt_load
 from yolov7.utils.datasets import LoadStreams, LoadImages

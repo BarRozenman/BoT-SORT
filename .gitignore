@@ -11,3 +11,9 @@ fast_reid/datasets/MOT17-ReID
 */__pycache__
 yolox/_C.cpython-37m-x86_64-linux-gnu.so
 yolox/_C.cpython-38-x86_64-linux-gnu.so
+*.so
+yolox/data
+build/
+pretrained
+*.pyc
+*.pyc
